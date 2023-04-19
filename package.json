@@ -1,7 +1,7 @@
 {
   "name": "sms-mnp-tests",
   "version": "2.0.0",
-  "description": "Front End Tests",
+  "description": "Front End Tests & API tests",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
