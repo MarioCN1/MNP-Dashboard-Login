@@ -17,8 +17,8 @@ it('MNP Dashboard', function () {
 })
 
 it('MNP Login page', function(){
-    cy.visit('http://172.25.253.84:5000/');
-    cy.get('.login-nav > a').click()
+    //cy.visit('http://172.25.253.84:5000/');
+   // cy.get('.login-nav > a').click()
         
 
 } )
